@@ -10,16 +10,18 @@
 
   *Usage:*
 
-  All it really needs is the thread id, these 2 use the thread id as the folder name:
+  Use the thread id as the folder name:
+
+  * All it really needs is the thread id, to archive the page
 
     $> ./4chan.rb 1234567778
 
-  It extracts the id from the url, if you paste the whole thing:
+  * Or it can extract the id from the url, if you paste the whole thing:
 
     $> ./4chan.rb boards.4chan.org/b/res/1234567778
 
-  Use a custom folder name:
+  * Or use a custom folder name:
 
-    $> ./4chan.rb boards.4chan.org/b/res/1234567778 foldername
+    $> ./4chan.rb 1234567778 foldername
 
 
