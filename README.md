@@ -10,6 +10,10 @@
 
   *Usage:*
 
+  All it really needs is the thread id:
+
+    $> ./4chan.rb 1234567778
+
   Use the thread ID as the folder name:
 
     $> ./4chan.rb boards.4chan.org/b/res/1234567778
