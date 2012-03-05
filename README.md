@@ -10,11 +10,11 @@
 
   *Usage:*
 
-  All it really needs is the thread id:
+  All it really needs is the thread id, these 2 use the thread id as the folder name:
 
     $> ./4chan.rb 1234567778
 
-  Use the thread ID as the folder name:
+  It extracts the id from the url, if you paste the whole thing:
 
     $> ./4chan.rb boards.4chan.org/b/res/1234567778
 
