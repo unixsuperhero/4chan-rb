@@ -5,7 +5,7 @@
   Right now it takes some customization.
 
 
-  _Usage:_
+  *Usage:*
 
   Use the thread ID as the folder name:
 
