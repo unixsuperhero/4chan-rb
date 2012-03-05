@@ -1,9 +1,12 @@
 
-/b/ thread archiver
+/b/ thread archiver (OS X specific)
 
 
   Right now it takes some customization.
 
+  line 41:
+
+  * Change /Users/jtoyota/jearsh/pictures to the parent directory of your 4chan folder
 
   *Usage:*
 

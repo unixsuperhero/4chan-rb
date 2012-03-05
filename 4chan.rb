@@ -57,5 +57,5 @@ class FourChan
   end
 end
 
-FourChan.gimme thread: ARGV[0], dirname: ARGV[1], debug: true
+FourChan.gimme thread: ARGV[0], dirname: ARGV[1], debug: false
 
